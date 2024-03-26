@@ -3,9 +3,7 @@
 
 Projetos desenvolvidos em grupo ou individualmente durante o bootcamp de Data Analytics da WomakersCode
 
-### Estatística
-[Frequências e Medidas](projeto_estastitica_freq_medidas)
-[Probabilidade e Amostragem]()
+### [Estatística](https://github.com/nadinne94/estastitica_womakers)
 
-### SQL
-[Comandos básicos SQL](womakerscode-sql)
+
+### [Comandos básicos SQL](https://github.com/nadinne94/womakerscode-sql)
