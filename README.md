@@ -10,10 +10,12 @@ Programa de formação para mulheres na área de análise de dados, com duraçã
 
 ## Projetos
 
-### [Estatística Descritiva](https://github.com/nadinne94/estastitica_womakers)
+### Estatística Descritiva
+- [Frequências e Medidas](ProjetoEstatisticaWomakers.ipynb)
 
-### [Probabilidade e Amostragem](https://github.com/nadinne94/estastitica_womakers)
+### Estatística Inferencial
+- [Probabilidade e Amostragem](https://github.com/nadinne94/estastitica_womakers)
+- [Testes de Hipótese](https://github.com/nadinne94/testes_de_hipotese)
 
-### [Testes de Hipótese](https://github.com/nadinne94/testes_de_hipotese)
-
-### [Comandos básicos SQL](https://github.com/nadinne94/womakerscode-sql)
+### SQL
+- [SQL + Python](https://github.com/nadinne94/womakerscode-sql/blob/main/exercicio-banco-dados.py)
