@@ -16,6 +16,7 @@ Programa de formação para mulheres na área de análise de dados, com duraçã
 ### Estatística Inferencial
 - [Probabilidade e Amostragem](https://github.com/nadinne94/estastitica_womakers)
 - [Testes de Hipótese](https://github.com/nadinne94/testes_de_hipotese)
+- [Correlação e Regressão](https://github.com/nadinne94/correlacao-regressao)
 
 ### SQL
 - [SQL + Python](https://github.com/nadinne94/womakerscode-sql/blob/main/exercicio-banco-dados.py)
