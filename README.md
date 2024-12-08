@@ -10,6 +10,9 @@ Programa de formação para mulheres na área de análise de dados, com duraçã
 
 ## Projetos
 
+### Projeto Final
+- [Setor Aéreo](https://github.com/ludmyllacaetano/Projeto-Final-Setor-Aereo)
+
 ### Estatística Descritiva
 - [Frequências e Medidas](ProjetoEstatisticaWomakers.ipynb)
 
